@@ -12,8 +12,5 @@
     "gulp-sourcemaps": "latest",
     "gulp-autoprefixer": "latest",
     "gulp-clean-css": "latest"
-  },
-  "scripts": {
-    "build": "azure"
   }
 }
